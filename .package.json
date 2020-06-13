@@ -1,0 +1,10 @@
+{
+  "author": "Seoyeon <i@ssen.name>",
+  "license": "MIT",
+  "repository": "github:iamssen/hello-packages",
+  "bugs": "https://github.com/iamssen/hello-packages/issues",
+  "homepage": "https://github.com/iamssen/hello-packages/tree/master/src/{name}",
+  "publishConfig": {
+    "access": "public"
+  }
+}
